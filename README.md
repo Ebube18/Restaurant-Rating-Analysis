@@ -52,7 +52,7 @@ The consumers are mainly single, young adults representing 87.27% of the dataset
 
 An investor should look out for the following characteristics: medium to low price restaurant, closed area, preferably offering fast food, cafeteria and/or bar.
 
-I believe that the need for bar has not been fully maximized. Since the cities are dominated by young single adults, a restaurant offering bar together with fast food will be a great investment
+I believe that the need for bar has not been fully maximized. Since the cities are dominated by young single adults, a restaurant offering bar together with fast food at a low to medium price will be a great investment.
 
 Thank you
 
