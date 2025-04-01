@@ -30,10 +30,13 @@ Merged tables, first roll as header, find and replace, added conditional column 
 ## Data Modelling
 Automatically derived relationships were adjusted and replaced with the required relationship.
 
-Auto model                     | Adjusted model     
-...............................|........................
+Auto model                  
 
-![RR auto model](https://github.com/user-attachments/assets/a337ce76-26db-46ba-ad21-9995687f3621) |![RR adjusted model](https://github.com/user-attachments/assets/0ddf71b4-f95b-4c8a-8eb0-a24f4f1113ef)
+![RR auto model](https://github.com/user-attachments/assets/a337ce76-26db-46ba-ad21-9995687f3621) 
+
+Adjusted model
+
+![RR adjusted model](https://github.com/user-attachments/assets/0ddf71b4-f95b-4c8a-8eb0-a24f4f1113ef)
 
 There are 2 dimension and 1 fact tables and the dimension tables were joined to the fact table using the one-to-many relationship.
 
